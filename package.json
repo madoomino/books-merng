@@ -1,0 +1,23 @@
+{
+  "name": "graphql-books",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "madoomino",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "mongoose": "^7.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madoomino/books-merng.git"
+  }
+}
